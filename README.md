@@ -1,0 +1,2 @@
+# guDS
+In class exercise 
